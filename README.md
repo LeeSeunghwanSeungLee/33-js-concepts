@@ -12,6 +12,10 @@
 ## Introduction
 
 This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by [Stephen Curtis](https://twitter.com/stephenthecurt) and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+    
+And, I traslate this repository on my velog in korean. So If you are interested in Korean materials, Please Visit my velog. Link is here
+    
+   [link](https://velog.io/@lshn1007)
 
 **🚀 Considered by GitHub as one of the [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
